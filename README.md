@@ -1,4 +1,4 @@
-## Hi there 👋
+## Greetings, visitor 👋
 
 <!--
 **irfanfinfon-creator/irfanfinfon-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Irfan, a designer and coder based in Malaysia. I am a designer who dived into coding so that my design would turn into live product. 
+
+These are currently my main techstack for my proejcts :
+
+Frontend : React , Typescript, Tailwind
+
+Backend : Node js
+
+Database : Supabase (PostgreSQL)
+
+
+My target at the moment : Create a Next.js project, Create a Web3 Project (with Rust)
