@@ -29,6 +29,9 @@ Backend :
 
 Database : 
 - Supabase (PostgreSQL)
+
+Deploy : 
+- Vercel
 _____________________________________________________________
 
 My target at the moment : 
