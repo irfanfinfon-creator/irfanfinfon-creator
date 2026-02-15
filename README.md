@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Irfan, a designer and coder based in Malaysia. I am a designer who dived into coding so that my design would turn into live product. 
 
-These are currently my main techstack for my proejcts :
+These are currently my main techstack for my projects :
 
 Frontend : React , Typescript, Tailwind
 
