@@ -23,9 +23,11 @@ Frontend :
 - React , 
 - Typescript, 
 - Tailwind
+- Next.js
 
 Backend :
 - Node js
+- Next.js
 
 Database : 
 - Supabase (PostgreSQL)
