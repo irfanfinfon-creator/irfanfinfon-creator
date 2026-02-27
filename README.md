@@ -35,5 +35,4 @@ Deploy :
 _____________________________________________________________
 
 My target at the moment : 
-- Create a Next.js project,
 - Create a Web3 Project (with Rust)
