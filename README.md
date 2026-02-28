@@ -36,5 +36,6 @@ Deploy :
 - Vercel
 _____________________________________________________________
 
-My target at the moment : 
-- Create a Web3 Project (with Rust)
+Current Projects in Progress : 
+- CRM (Replicating old MVP from Flutterflow to Fullstack Build)
+- Local AI-Intergrated Agentic Personal Assistance (Inspired by Clawdbot)
