@@ -39,4 +39,6 @@ _____________________________________________________________
 Current Projects in Progress : 
 - CRM (Replicating old MVP from Flutterflow to Fullstack Build)
 - Local AI-Intergrated Agentic Personal Assistance (Inspired by Clawdbot)
+
+Current App Goal :
 - Personal dApp Web3 Art Portfolio
